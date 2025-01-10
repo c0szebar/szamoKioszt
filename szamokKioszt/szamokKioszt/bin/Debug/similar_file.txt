@@ -1,0 +1,5 @@
+abc1234-56;PC;250000;lel2001;t4;rg
+xyz9876-12;Laptop;450000;lel2002;t5;rg
+hjk5678-34;Szerver;800000;lel2003;Nagy Béla;Nagy Béla;
+qwe4321-78;PC;350000;lel2004;Kovács Anna;Kovács Anna;
+mnb6543-90;Laptop;500000;lel2005;t6;rg

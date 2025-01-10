@@ -1,0 +1,7 @@
+J:\12.c\Berczik A. C#\PROGRAMOK\szamokKioszt\szamokKioszt\bin\Debug\szamokKioszt.exe.config
+J:\12.c\Berczik A. C#\PROGRAMOK\szamokKioszt\szamokKioszt\bin\Debug\szamokKioszt.exe
+J:\12.c\Berczik A. C#\PROGRAMOK\szamokKioszt\szamokKioszt\bin\Debug\szamokKioszt.pdb
+J:\12.c\Berczik A. C#\PROGRAMOK\szamokKioszt\szamokKioszt\obj\Debug\szamokKioszt.csproj.AssemblyReference.cache
+J:\12.c\Berczik A. C#\PROGRAMOK\szamokKioszt\szamokKioszt\obj\Debug\szamokKioszt.csproj.CoreCompileInputs.cache
+J:\12.c\Berczik A. C#\PROGRAMOK\szamokKioszt\szamokKioszt\obj\Debug\szamokKioszt.exe
+J:\12.c\Berczik A. C#\PROGRAMOK\szamokKioszt\szamokKioszt\obj\Debug\szamokKioszt.pdb
